@@ -1,11 +1,11 @@
 # Sokoban-C
 These are the two code (one for Linux and one for Windows) which are copies of the Sokoban game written in C and run in the terminal.
 
-Projet réalisé en BUT informatique.
+Project completed for a Computer Science degree.
 
-Langage : C
+Language: C
 
-Fonctionnalités :
-- déplacement joueur
-- gestion des blocs
-- niveaux
+Features:
+- Player movement
+- Block management
+- Levels
